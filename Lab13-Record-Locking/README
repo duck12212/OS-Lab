@@ -1,0 +1,10 @@
+Advisory Locking:
+a1.c a2.c 
+Mandatory Locking:
+command
+# mount /dev/device  /location
+# mount –o remount,mand /dev/mount device  /location
+# mount | grep mnt
+# chmod g+s zzz.txt             
+# chmod g-x zzz.txt
+a1.c a2.c
