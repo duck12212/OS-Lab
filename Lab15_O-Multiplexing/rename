@@ -1,0 +1,3 @@
+mkfifo fifo1
+mkfifo fifo2
+ls -l
